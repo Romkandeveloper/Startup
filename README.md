@@ -1,4 +1,4 @@
-# Startup (298kb)
+# Startup
 This is my first project.
 
 such technologies were used:
