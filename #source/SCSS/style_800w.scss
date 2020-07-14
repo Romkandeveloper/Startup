@@ -1,0 +1,10 @@
+    .info-block{
+      flex-direction: column;
+      align-items: flex-start;
+      &__item{
+        width: 215px;
+      }
+    }
+    .nav{
+      display: none;
+    }
