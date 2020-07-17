@@ -1,11 +1,5 @@
-# Startup
-This is my first project.
+# Startup 
 
-such technologies were used:
-...html
-...css
-...sass(scss)
-...bem
-...vsc
-...avocode
-...prepros (minification of css and pictures)
+//first project.
+
+
